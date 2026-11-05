@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://gdg.community.dev/gdg-on-campus-widyatama-university-bandung-indonesia/"><img src="https://img.shields.io/badge/GDG_Community-Platform-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=222" alt="Community Page"></a>
-  <a href="https://instagram.com/gdgoc.widyatama"><img src="https://img.shields.io/badge/Instagram-@gdgoc.widyatama-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=222" alt="Instagram"></a>
+  <a href="https://www.instagram.com/gdgocwidyatama"><img src="https://img.shields.io/badge/Instagram-@gdgocwidyatama-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=222" alt="Instagram"></a>
   <a href="https://linkedin.com/company/gdgoc-widyatama"><img src="https://img.shields.io/badge/LinkedIn-GDGoC_Widyatama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=222" alt="LinkedIn"></a>
 </p>
 
